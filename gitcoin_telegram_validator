@@ -1,0 +1,13 @@
+Hey there folks! 
+
+We are looking for someone to help code up a really simple telegram tool. You could even use something like IFTTT or Zapier. 
+
+This is what it must do:
+
+As soon as a new user joins a telegram channel (it will be a channel that I/we are an admin on, it adds the telegram handle
+to a google sheets page and time stamps it. 
+
+Additionally, it needs to track who invited who to the telegram channel. I'm not sure the best way to do this but essentially we are trying 
+to audit a referral system. If Johnny invites Jane to the channel Johnny should get a point next to his telegram handle. 
+
+Let me know if you have any questions!
